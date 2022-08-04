@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="16" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-27T15:48:52Z" name="Suite pruebas de regresión" finished-at="2022-07-27T15:51:23Z" duration-ms="151608">
+    <groups>
+    </groups>
+    <test started-at="2022-07-27T15:48:52Z" name="Casos de prueba" finished-at="2022-07-27T15:51:23Z" duration-ms="151608">
+      <class name="Tests.Tests">
+        <test-method is-config="true" signature="preparacion()[pri:0, instance:Tests.Tests@27406a17]" started-at="2022-07-27T15:48:52Z" name="preparacion" finished-at="2022-07-27T15:48:54Z" duration-ms="2262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacion -->
+        <test-method is-config="true" signature="preparacion()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:48:54Z" name="preparacion" finished-at="2022-07-27T15:48:54Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacion -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests@27406a17]" started-at="2022-07-27T15:48:54Z" name="preTest" finished-at="2022-07-27T15:48:55Z" duration-ms="1580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP001_Login_Exitoso()[pri:0, instance:Tests.Tests@27406a17]" started-at="2022-07-27T15:48:55Z" name="CP001_Login_Exitoso" finished-at="2022-07-27T15:49:04Z" duration-ms="8248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_Login_Exitoso -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests@27406a17]" started-at="2022-07-27T15:49:04Z" name="postTests" finished-at="2022-07-27T15:49:04Z" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+      </class> <!-- Tests.Tests -->
+      <class name="Tests.Tests2">
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:04Z" name="preTest" finished-at="2022-07-27T15:49:08Z" duration-ms="4436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP001_Login_Exitoso()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:08Z" name="CP001_Login_Exitoso" finished-at="2022-07-27T15:49:16Z" duration-ms="7361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_Login_Exitoso -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:16Z" name="postTests" finished-at="2022-07-27T15:49:16Z" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:16Z" name="preTest" finished-at="2022-07-27T15:49:20Z" duration-ms="3795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP002_Cambiar_Contrasena()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:20Z" name="CP002_Cambiar_Contrasena" finished-at="2022-07-27T15:49:28Z" duration-ms="7968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP002_Cambiar_Contrasena -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:28Z" name="postTests" finished-at="2022-07-27T15:49:28Z" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:28Z" name="preTest" finished-at="2022-07-27T15:49:31Z" duration-ms="3506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP003_Cambiar_Idioma_Pagina()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:31Z" name="CP003_Cambiar_Idioma_Pagina" finished-at="2022-07-27T15:49:32Z" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP003_Cambiar_Idioma_Pagina -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:32Z" name="postTests" finished-at="2022-07-27T15:49:33Z" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:33Z" name="preTest" finished-at="2022-07-27T15:49:36Z" duration-ms="3719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP004_Contactanos()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:36Z" name="CP004_Contactanos" finished-at="2022-07-27T15:49:51Z" duration-ms="14861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP004_Contactanos -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:51Z" name="postTests" finished-at="2022-07-27T15:49:51Z" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:51Z" name="preTest" finished-at="2022-07-27T15:49:55Z" duration-ms="3487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP005_Login_Fallido()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:49:55Z" name="CP005_Login_Fallido" finished-at="2022-07-27T15:50:00Z" duration-ms="5201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP005_Login_Fallido -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:00Z" name="postTests" finished-at="2022-07-27T15:50:00Z" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:00Z" name="preTest" finished-at="2022-07-27T15:50:03Z" duration-ms="3183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP006_Guia_Inicio()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:03Z" name="CP006_Guia_Inicio" finished-at="2022-07-27T15:50:11Z" duration-ms="7263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP006_Guia_Inicio -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:11Z" name="postTests" finished-at="2022-07-27T15:50:15Z" duration-ms="4153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:15Z" name="preTest" finished-at="2022-07-27T15:50:18Z" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP007_Crear_App()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:18Z" name="CP007_Crear_App" finished-at="2022-07-27T15:50:49Z" duration-ms="31159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP007_Crear_App -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:49Z" name="postTests" finished-at="2022-07-27T15:50:49Z" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+        <test-method is-config="true" signature="preTest()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:49Z" name="preTest" finished-at="2022-07-27T15:50:52Z" duration-ms="3129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method signature="CP008_Borrar_App()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:50:52Z" name="CP008_Borrar_App" finished-at="2022-07-27T15:51:23Z" duration-ms="31008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP008_Borrar_App -->
+        <test-method is-config="true" signature="postTests()[pri:0, instance:Tests.Tests2@2af004b]" started-at="2022-07-27T15:51:23Z" name="postTests" finished-at="2022-07-27T15:51:23Z" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTests -->
+      </class> <!-- Tests.Tests2 -->
+    </test> <!-- Casos de prueba -->
+  </suite> <!-- Suite pruebas de regresión -->
+</testng-results>
